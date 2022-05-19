@@ -17,6 +17,7 @@ Well, I know every piece of technology out there except for the ones that I don'
 <p align="left"> <a href="https://www.github.com/gyanendrokh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
 ### Badges
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OnlyFans-00AFF0.svg?style=for-the-badge&logo=OnlyFans&logoColor=white" /></a>
 
 <b>My GitHub Stats</b>
 
