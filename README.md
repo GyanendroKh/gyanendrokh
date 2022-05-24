@@ -4,7 +4,7 @@ Hi 👋
 Architech by day, WebCrawler by night
 --------------------------------------
 
-Well, I know every piece of technology out there except for the ones that I don't know.
+Trying to learn everything.
 
 * 🌍  I'm based in Imphal, Manipur
 * 🖥️  See my portfolio at [gyanendrokh.io](https://gyanendrokh.io) (can't afford the domain, still)
