@@ -4,9 +4,9 @@
 Architech by day, WebCrawler by night
 --------------------------------------
 
-* 🌍  I'm based in Imphal, Manipur
+* 🌍  Imphal, Manipur
 * 🖥️  See my portfolio at [gyanendrokh.io](https://gyanendrokh.io) (can't afford the domain, still)
-* ✉️   [me@gyanendrokh.io](mailto:me@gyanendrokh.io)
+* ✉️  [me@gyanendrokh.io](mailto:me@gyanendrokh.io)
 * 🤝  I'm open to collaborating on anything interesting
 
 
