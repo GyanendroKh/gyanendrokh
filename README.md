@@ -1,6 +1,4 @@
-
-
-Architech by day, WebCrawler by night
+WebCrawler
 --------------------------------------
 
 * 🌍  Imphal, Manipur
